@@ -1,0 +1,23 @@
+* {
+    font-family: Arial;
+    }
+    td {
+        font-family: "Courier new", monospace;
+        min-width: 150px;
+    }
+    img {
+        width: 50px;
+    }
+    .small {
+        font-size: .8em;
+    }
+    .tabletitle {
+
+        font-weight: bold;
+        font-size:1.2em;
+        text-align:left;
+        padding-bottom: 15px;
+    }
+    .groupname {
+        display:none;
+    }
